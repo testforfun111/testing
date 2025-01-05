@@ -1,0 +1,64 @@
+{
+  "uuid": "612f78a8-37c3-451b-9568-18af582f192d",
+  "historyId": "9301bfde75c61f6c5b11e15e542250bd",
+  "testCaseId": "ed624362d3c3a413a11dd6c95e81dbe3",
+  "fullName": "IntegrationTest:ItegrationalTests.IntegrationalTests.OrderIntegrationTests.TestDeleteOrder()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": ".NET TP Worker"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-1N5H40G"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "xUnit.net"
+    },
+    {
+      "name": "testClass",
+      "value": "ItegrationalTests.IntegrationalTests.OrderIntegrationTests"
+    },
+    {
+      "name": "testMethod",
+      "value": "ItegrationalTests.IntegrationalTests.OrderIntegrationTests.TestDeleteOrder"
+    },
+    {
+      "name": "package",
+      "value": "ItegrationalTests.IntegrationalTests.OrderIntegrationTests"
+    },
+    {
+      "name": "owner",
+      "value": "VHD"
+    },
+    {
+      "name": "subSuite",
+      "value": "OrderIntegrational Tests"
+    },
+    {
+      "name": "suite",
+      "value": "Integrational Tests"
+    }
+  ],
+  "links": [],
+  "name": "ItegrationalTests.IntegrationalTests.OrderIntegrationTests.TestDeleteOrder",
+  "status": "broken",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "57P01: terminating connection due to administrator command",
+    "trace": "   at Npgsql.Internal.NpgsqlConnector.ReadMessageLong(Boolean async, DataRowLoadingMode dataRowLoadingMode, Boolean readingNotifications, Boolean isReadingPrependedMessage)\r\n   at System.Runtime.CompilerServices.PoolingAsyncValueTaskMethodBuilder`1.StateMachineBox`1.System.Threading.Tasks.Sources.IValueTaskSource<TResult>.GetResult(Int16 token)\r\n   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)\r\n   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)\r\n   at Npgsql.NpgsqlDataReader.NextResult()\r\n   at Npgsql.NpgsqlCommand.ExecuteReader(Boolean async, CommandBehavior behavior, CancellationToken cancellationToken)\r\n   at Npgsql.NpgsqlCommand.ExecuteReader(Boolean async, CommandBehavior behavior, CancellationToken cancellationToken)\r\n   at Npgsql.NpgsqlCommand.ExecuteScalar(Boolean async, CancellationToken cancellationToken)\r\n   at Npgsql.NpgsqlCommand.ExecuteScalar()\r\n   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteScalar(RelationalCommandParameterObject parameterObject)\r\n   at Microsoft.EntityFrameworkCore.Migrations.HistoryRepository.Exists()\r\n   at Microsoft.EntityFrameworkCore.Migrations.HistoryRepository.GetAppliedMigrations()\r\n   at Npgsql.EntityFrameworkCore.PostgreSQL.Migrations.Internal.NpgsqlMigrator.Migrate(String targetMigration)\r\n   at Microsoft.EntityFrameworkCore.RelationalDatabaseFacadeExtensions.Migrate(DatabaseFacade databaseFacade)\r\n   at Data.pgSqlDbContextFactory..ctor(String connectionStr) in E:\\My_semester_7\\Testing\\Lab2\\WinFormsApp1\\WinFormsApp1\\Data\\pgSqlDbContextFactory.cs:line 29\r\n   at ItegrationalTests.Fixture.IntegrationFixture..ctor() in E:\\My_semester_7\\Testing\\Lab2\\IntegrationTest\\Fixture\\IntegrationFixture.cs:line 18\r\n   at ItegrationalTests.IntegrationalTests.OrderIntegrationTests..ctor() in E:\\My_semester_7\\Testing\\Lab2\\IntegrationTest\\IntegrationTests\\OrderIntegrationTests.cs:line 30\r\n   at System.RuntimeType.CreateInstanceDefaultCtor(Boolean publicOnly, Boolean wrapExceptions)"
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1736106913972,
+  "stop": 1736106913976
+}

@@ -1,0 +1,67 @@
+{
+  "uuid": "35d7d47a-437d-4217-a0ab-e9c8c0f2b552",
+  "historyId": "29185a290e57fb7ef0d2a0b75044775f",
+  "testCaseId": "b0cffb4d152fc656cbcbd67615eb8d60",
+  "fullName": "UnitTests:UnitTests.UnitTests.TestBL.DestroitMethod.ProductServiceUnitTests.TestDeleteProductFailureDestroitMethod()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": ".NET TP Worker"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-1N5H40G"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "xUnit.net"
+    },
+    {
+      "name": "testClass",
+      "value": "UnitTests.UnitTests.TestBL.DestroitMethod.ProductServiceUnitTests"
+    },
+    {
+      "name": "testMethod",
+      "value": "UnitTests.UnitTests.TestBL.DestroitMethod.ProductServiceUnitTests.TestDeleteProductFailureDestroitMethod"
+    },
+    {
+      "name": "package",
+      "value": "UnitTests.UnitTests.TestBL.DestroitMethod.ProductServiceUnitTests"
+    },
+    {
+      "name": "owner",
+      "value": "VHD"
+    },
+    {
+      "name": "parentSuite",
+      "value": "Services Unit tests"
+    },
+    {
+      "name": "subSuite",
+      "value": "ProductService unit tests Destroit Method"
+    },
+    {
+      "name": "suite",
+      "value": "ProductServices Unit tests"
+    }
+  ],
+  "links": [],
+  "name": "UnitTests.UnitTests.TestBL.DestroitMethod.ProductServiceUnitTests.TestDeleteProductFailureDestroitMethod",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": ""
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1736106415049,
+  "stop": 1736106415061
+}

@@ -1,0 +1,67 @@
+{
+  "uuid": "769a553a-a3b0-451d-bcad-9cd7e9b28ea8",
+  "historyId": "4a737a17be484181e1363b52a6c7bf71",
+  "testCaseId": "03937ab785d78a522597cdf26c8ec447",
+  "fullName": "UnitTests:UnitTests.UnitTests.TestBL.DestroitMethod.ItemOrderServiceUnitTests.TestDeleteItemOrderFailureDestroitMethod()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": ".NET TP Worker"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-1N5H40G"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "xUnit.net"
+    },
+    {
+      "name": "testClass",
+      "value": "UnitTests.UnitTests.TestBL.DestroitMethod.ItemOrderServiceUnitTests"
+    },
+    {
+      "name": "testMethod",
+      "value": "UnitTests.UnitTests.TestBL.DestroitMethod.ItemOrderServiceUnitTests.TestDeleteItemOrderFailureDestroitMethod"
+    },
+    {
+      "name": "package",
+      "value": "UnitTests.UnitTests.TestBL.DestroitMethod.ItemOrderServiceUnitTests"
+    },
+    {
+      "name": "owner",
+      "value": "VHD"
+    },
+    {
+      "name": "parentSuite",
+      "value": "Services Unit tests"
+    },
+    {
+      "name": "subSuite",
+      "value": "ItemOrderService unit tests Destroit Method"
+    },
+    {
+      "name": "suite",
+      "value": "ItemOrderServices Unit tests"
+    }
+  ],
+  "links": [],
+  "name": "UnitTests.UnitTests.TestBL.DestroitMethod.ItemOrderServiceUnitTests.TestDeleteItemOrderFailureDestroitMethod",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": ""
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1735926636585,
+  "stop": 1735926636622
+}

@@ -1,0 +1,67 @@
+{
+  "uuid": "ca51c1d2-5245-4623-8104-30569945a7e3",
+  "historyId": "4306b92654640f47517ed7839efc9264",
+  "testCaseId": "1cb315abb39a49e45ba8c6a69c32b0d8",
+  "fullName": "UnitTests:UnitTests.UnitTests.TestBL.LondonMethod.UserServiceUnitTests.TestChangePasswordFailure()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": ".NET TP Worker"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-1N5H40G"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "xUnit.net"
+    },
+    {
+      "name": "testClass",
+      "value": "UnitTests.UnitTests.TestBL.LondonMethod.UserServiceUnitTests"
+    },
+    {
+      "name": "testMethod",
+      "value": "UnitTests.UnitTests.TestBL.LondonMethod.UserServiceUnitTests.TestChangePasswordFailure"
+    },
+    {
+      "name": "package",
+      "value": "UnitTests.UnitTests.TestBL.LondonMethod.UserServiceUnitTests"
+    },
+    {
+      "name": "owner",
+      "value": "VHD"
+    },
+    {
+      "name": "parentSuite",
+      "value": "Services Unit tests"
+    },
+    {
+      "name": "subSuite",
+      "value": "UserService unit tests London Method"
+    },
+    {
+      "name": "suite",
+      "value": "UserServices Unit tests"
+    }
+  ],
+  "links": [],
+  "name": "UnitTests.UnitTests.TestBL.LondonMethod.UserServiceUnitTests.TestChangePasswordFailure",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": ""
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1736106415168,
+  "stop": 1736106415221
+}

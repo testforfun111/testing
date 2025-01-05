@@ -1,0 +1,63 @@
+{
+  "uuid": "66cb0714-a829-4036-9b0a-2af3d32c2f28",
+  "historyId": "4b708f9511887e2a49952c2e1235555c",
+  "testCaseId": "6a3bbbb1f1e38fd0f68c63c4e2dd9137",
+  "fullName": "UnitTests:UnitTests.UnitTests.TestDA.ItemOrderRepositoryUnitTests.TestGetItemOrderById()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": ".NET TP Worker"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-1N5H40G"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "xUnit.net"
+    },
+    {
+      "name": "testClass",
+      "value": "UnitTests.UnitTests.TestDA.ItemOrderRepositoryUnitTests"
+    },
+    {
+      "name": "testMethod",
+      "value": "UnitTests.UnitTests.TestDA.ItemOrderRepositoryUnitTests.TestGetItemOrderById"
+    },
+    {
+      "name": "package",
+      "value": "UnitTests.UnitTests.TestDA.ItemOrderRepositoryUnitTests"
+    },
+    {
+      "name": "owner",
+      "value": "VHD"
+    },
+    {
+      "name": "subSuite",
+      "value": "ItemOrderRepositoty Unit tests"
+    },
+    {
+      "name": "suite",
+      "value": "DA Unit Tests"
+    }
+  ],
+  "links": [],
+  "name": "UnitTests.UnitTests.TestDA.ItemOrderRepositoryUnitTests.TestGetItemOrderById",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": ""
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1735934053662,
+  "stop": 1735934053680
+}

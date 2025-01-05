@@ -1,0 +1,67 @@
+{
+  "uuid": "543fde5e-4620-438e-bc83-2d41466d3fdb",
+  "historyId": "827b219151d6d8e7f179259d4ac0674b",
+  "testCaseId": "7abc678d0f0f15263b6ce8ff5edbd2b6",
+  "fullName": "UnitTests:UnitTests.UnitTests.TestBL.DestroitMethod.OrderServiceUnitTests.TestAddOrderFailureDestroitMethod()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": ".NET TP Worker"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-1N5H40G"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "xUnit.net"
+    },
+    {
+      "name": "testClass",
+      "value": "UnitTests.UnitTests.TestBL.DestroitMethod.OrderServiceUnitTests"
+    },
+    {
+      "name": "testMethod",
+      "value": "UnitTests.UnitTests.TestBL.DestroitMethod.OrderServiceUnitTests.TestAddOrderFailureDestroitMethod"
+    },
+    {
+      "name": "package",
+      "value": "UnitTests.UnitTests.TestBL.DestroitMethod.OrderServiceUnitTests"
+    },
+    {
+      "name": "owner",
+      "value": "VHD"
+    },
+    {
+      "name": "parentSuite",
+      "value": "Services Unit tests"
+    },
+    {
+      "name": "subSuite",
+      "value": "OrderService unit tests Destroit Method"
+    },
+    {
+      "name": "suite",
+      "value": "OrderServices Unit tests"
+    }
+  ],
+  "links": [],
+  "name": "UnitTests.UnitTests.TestBL.DestroitMethod.OrderServiceUnitTests.TestAddOrderFailureDestroitMethod",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": ""
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1733381533870,
+  "stop": 1733381536610
+}

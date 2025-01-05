@@ -1,0 +1,59 @@
+{
+  "uuid": "10faf010-acc8-4c33-b9b0-d2e32c2c0eb6",
+  "historyId": "bd41ab7b296f3f0d25300dbee7e5f739",
+  "testCaseId": "06e918e306860f048ee75d970cdb8476",
+  "fullName": "E2E:E2ETests.E2ETests.TestOrderProduct()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": ".NET TP Worker"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-1N5H40G"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "xUnit.net"
+    },
+    {
+      "name": "testClass",
+      "value": "E2ETests.E2ETests"
+    },
+    {
+      "name": "testMethod",
+      "value": "E2ETests.E2ETests.TestOrderProduct"
+    },
+    {
+      "name": "package",
+      "value": "E2ETests.E2ETests"
+    },
+    {
+      "name": "owner",
+      "value": "VHD"
+    },
+    {
+      "name": "suite",
+      "value": "E2E"
+    }
+  ],
+  "links": [],
+  "name": "E2ETests.E2ETests.TestOrderProduct",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": ""
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1736107233953,
+  "stop": 1736107234863
+}

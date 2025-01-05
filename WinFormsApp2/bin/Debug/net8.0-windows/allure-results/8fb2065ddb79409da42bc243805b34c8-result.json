@@ -1,0 +1,67 @@
+{
+  "uuid": "47bcddb8-38a0-415b-b3eb-c848ca3d0584",
+  "historyId": "d86d838925a28214c12c0d040e2e38fb",
+  "testCaseId": "d8599e0fd3ae61660e65ba08aca505f8",
+  "fullName": "UnitTests:UnitTests.UnitTests.TestBL.LondonMethod.UserServiceUnitTests.TestGetUserByIdFailure()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": ".NET TP Worker"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-1N5H40G"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "xUnit.net"
+    },
+    {
+      "name": "testClass",
+      "value": "UnitTests.UnitTests.TestBL.LondonMethod.UserServiceUnitTests"
+    },
+    {
+      "name": "testMethod",
+      "value": "UnitTests.UnitTests.TestBL.LondonMethod.UserServiceUnitTests.TestGetUserByIdFailure"
+    },
+    {
+      "name": "package",
+      "value": "UnitTests.UnitTests.TestBL.LondonMethod.UserServiceUnitTests"
+    },
+    {
+      "name": "owner",
+      "value": "VHD"
+    },
+    {
+      "name": "parentSuite",
+      "value": "Services Unit tests"
+    },
+    {
+      "name": "subSuite",
+      "value": "UserService unit tests London Method"
+    },
+    {
+      "name": "suite",
+      "value": "UserServices Unit tests"
+    }
+  ],
+  "links": [],
+  "name": "UnitTests.UnitTests.TestBL.LondonMethod.UserServiceUnitTests.TestGetUserByIdFailure",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": ""
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1735926532983,
+  "stop": 1735926532986
+}

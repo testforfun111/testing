@@ -1,0 +1,67 @@
+{
+  "uuid": "f3b8f7ee-da08-4e1a-b63d-23b0a4631f80",
+  "historyId": "935d57a1da8f2cf21e6c9fb28bbc649c",
+  "testCaseId": "6ccab66ddac2ba769869b851540eeb13",
+  "fullName": "UnitTests:UnitTests.UnitTests.TestBL.LondonMethod.ProductServiceUnitTests.TestGetProductByIdFailure()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": ".NET TP Worker"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-1N5H40G"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "xUnit.net"
+    },
+    {
+      "name": "testClass",
+      "value": "UnitTests.UnitTests.TestBL.LondonMethod.ProductServiceUnitTests"
+    },
+    {
+      "name": "testMethod",
+      "value": "UnitTests.UnitTests.TestBL.LondonMethod.ProductServiceUnitTests.TestGetProductByIdFailure"
+    },
+    {
+      "name": "package",
+      "value": "UnitTests.UnitTests.TestBL.LondonMethod.ProductServiceUnitTests"
+    },
+    {
+      "name": "owner",
+      "value": "VHD"
+    },
+    {
+      "name": "parentSuite",
+      "value": "Services Unit tests"
+    },
+    {
+      "name": "subSuite",
+      "value": "ProductService unit tests London Method"
+    },
+    {
+      "name": "suite",
+      "value": "ProductServices Unit tests"
+    }
+  ],
+  "links": [],
+  "name": "UnitTests.UnitTests.TestBL.LondonMethod.ProductServiceUnitTests.TestGetProductByIdFailure",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": ""
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1735932409219,
+  "stop": 1735932409222
+}

@@ -1,0 +1,67 @@
+{
+  "uuid": "343203b9-57fa-44e1-8910-202cd2c67978",
+  "historyId": "bceaf6d03459aa3d19f08fd4871f731f",
+  "testCaseId": "ae99af201118ce937f3e3b943d71aa8e",
+  "fullName": "UnitTests:UnitTests.UnitTests.TestBL.LondonMethod.CartServiceUnitTests.TestDeleteCartFailure()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": ".NET TP Worker"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-1N5H40G"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "xUnit.net"
+    },
+    {
+      "name": "testClass",
+      "value": "UnitTests.UnitTests.TestBL.LondonMethod.CartServiceUnitTests"
+    },
+    {
+      "name": "testMethod",
+      "value": "UnitTests.UnitTests.TestBL.LondonMethod.CartServiceUnitTests.TestDeleteCartFailure"
+    },
+    {
+      "name": "package",
+      "value": "UnitTests.UnitTests.TestBL.LondonMethod.CartServiceUnitTests"
+    },
+    {
+      "name": "owner",
+      "value": "VHD"
+    },
+    {
+      "name": "parentSuite",
+      "value": "Services Unit tests"
+    },
+    {
+      "name": "subSuite",
+      "value": "CartService unit tests London Method"
+    },
+    {
+      "name": "suite",
+      "value": "CartServices Unit tests"
+    }
+  ],
+  "links": [],
+  "name": "UnitTests.UnitTests.TestBL.LondonMethod.CartServiceUnitTests.TestDeleteCartFailure",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": ""
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1736106618241,
+  "stop": 1736106618249
+}

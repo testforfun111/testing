@@ -1,0 +1,63 @@
+{
+  "uuid": "55b7da41-3a8b-4d02-a551-e1aa514aa7fc",
+  "historyId": "1b7a2d54132982ae8473f2944a4d2d19",
+  "testCaseId": "97416f9e9ce7a26142e72f4d60a0288f",
+  "fullName": "IntegrationTest:ItegrationalTests.IntegrationalTests.ItemCartIntegrationTests.TestGetItemCartById()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": ".NET TP Worker"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-1N5H40G"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "xUnit.net"
+    },
+    {
+      "name": "testClass",
+      "value": "ItegrationalTests.IntegrationalTests.ItemCartIntegrationTests"
+    },
+    {
+      "name": "testMethod",
+      "value": "ItegrationalTests.IntegrationalTests.ItemCartIntegrationTests.TestGetItemCartById"
+    },
+    {
+      "name": "package",
+      "value": "ItegrationalTests.IntegrationalTests.ItemCartIntegrationTests"
+    },
+    {
+      "name": "owner",
+      "value": "VHD"
+    },
+    {
+      "name": "subSuite",
+      "value": "ItemCartIntegrational Tests"
+    },
+    {
+      "name": "suite",
+      "value": "Integrational Tests"
+    }
+  ],
+  "links": [],
+  "name": "ItegrationalTests.IntegrationalTests.ItemCartIntegrationTests.TestGetItemCartById",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": ""
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1735984483909,
+  "stop": 1735984483917
+}

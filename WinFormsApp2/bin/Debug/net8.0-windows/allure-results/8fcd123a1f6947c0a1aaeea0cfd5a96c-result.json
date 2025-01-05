@@ -1,0 +1,67 @@
+{
+  "uuid": "600cb8a8-577c-4cd7-ae73-d4f0311b1656",
+  "historyId": "7a20629e05d78fe45f89faa3fa2c14c9",
+  "testCaseId": "6afb7a633b9aa93d6ef07758644e59af",
+  "fullName": "UnitTests:UnitTests.UnitTests.TestBL.LondonMethod.OrderServiceUnitTests.TestAddOrderFailure()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": ".NET TP Worker"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-1N5H40G"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "xUnit.net"
+    },
+    {
+      "name": "testClass",
+      "value": "UnitTests.UnitTests.TestBL.LondonMethod.OrderServiceUnitTests"
+    },
+    {
+      "name": "testMethod",
+      "value": "UnitTests.UnitTests.TestBL.LondonMethod.OrderServiceUnitTests.TestAddOrderFailure"
+    },
+    {
+      "name": "package",
+      "value": "UnitTests.UnitTests.TestBL.LondonMethod.OrderServiceUnitTests"
+    },
+    {
+      "name": "owner",
+      "value": "VHD"
+    },
+    {
+      "name": "parentSuite",
+      "value": "Services Unit tests"
+    },
+    {
+      "name": "subSuite",
+      "value": "OrderService unit tests London Method"
+    },
+    {
+      "name": "suite",
+      "value": "OrderServices Unit tests"
+    }
+  ],
+  "links": [],
+  "name": "UnitTests.UnitTests.TestBL.LondonMethod.OrderServiceUnitTests.TestAddOrderFailure",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": ""
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1735926171228,
+  "stop": 1735926171236
+}

@@ -1,0 +1,63 @@
+{
+  "uuid": "795d685a-8a88-4c99-bdbc-d419245cfc7a",
+  "historyId": "c7e4f82d938d8d8c8653d738da3b1a46",
+  "testCaseId": "54565701493c31e01cea941629f0db4d",
+  "fullName": "IntegrationTest:ItegrationalTests.IntegrationalTests.OrderIntegrationTests.TestGetOrderById()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": ".NET TP Worker"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-1N5H40G"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "xUnit.net"
+    },
+    {
+      "name": "testClass",
+      "value": "ItegrationalTests.IntegrationalTests.OrderIntegrationTests"
+    },
+    {
+      "name": "testMethod",
+      "value": "ItegrationalTests.IntegrationalTests.OrderIntegrationTests.TestGetOrderById"
+    },
+    {
+      "name": "package",
+      "value": "ItegrationalTests.IntegrationalTests.OrderIntegrationTests"
+    },
+    {
+      "name": "owner",
+      "value": "VHD"
+    },
+    {
+      "name": "subSuite",
+      "value": "OrderIntegrational Tests"
+    },
+    {
+      "name": "suite",
+      "value": "Integrational Tests"
+    }
+  ],
+  "links": [],
+  "name": "ItegrationalTests.IntegrationalTests.OrderIntegrationTests.TestGetOrderById",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": ""
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1735984465487,
+  "stop": 1735984465493
+}

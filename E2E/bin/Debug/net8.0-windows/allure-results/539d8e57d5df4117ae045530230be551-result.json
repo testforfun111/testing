@@ -1,0 +1,60 @@
+{
+  "uuid": "9aee503a-ccb0-48bc-a95b-cec0ac306128",
+  "historyId": "bd41ab7b296f3f0d25300dbee7e5f739",
+  "testCaseId": "06e918e306860f048ee75d970cdb8476",
+  "fullName": "E2E:E2ETests.E2ETests.TestOrderProduct()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": ".NET TP Worker"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-1N5H40G"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "xUnit.net"
+    },
+    {
+      "name": "testClass",
+      "value": "E2ETests.E2ETests"
+    },
+    {
+      "name": "testMethod",
+      "value": "E2ETests.E2ETests.TestOrderProduct"
+    },
+    {
+      "name": "package",
+      "value": "E2ETests.E2ETests"
+    },
+    {
+      "name": "owner",
+      "value": "VHD"
+    },
+    {
+      "name": "suite",
+      "value": "E2E"
+    }
+  ],
+  "links": [],
+  "name": "E2ETests.E2ETests.TestOrderProduct",
+  "status": "broken",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "Object reference not set to an instance of an object.",
+    "trace": "   at Repository.OrderRepository.AddOrder(Order order) in E:\\My_semester_7\\Testing\\Lab2\\WinFormsApp1\\WinFormsApp1\\DA\\OrderRepository.cs:line 39\r\n   at Services.OrderService.AddOrder(Order order) in E:\\My_semester_7\\Testing\\Lab2\\WinFormsApp1\\WinFormsApp1\\Services\\OrderService.cs:line 36\r\n   at E2ETests.E2ETests.TestOrderProduct() in E:\\My_semester_7\\Testing\\Lab2\\E2E\\E2ETests.cs:line 92\r\n   at System.RuntimeMethodHandle.InvokeMethod(Object target, Void** arguments, Signature sig, Boolean isConstructor)\r\n   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)"
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1735932780838,
+  "stop": 1735932781268
+}

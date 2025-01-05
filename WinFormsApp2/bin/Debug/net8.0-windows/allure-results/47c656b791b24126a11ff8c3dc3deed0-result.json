@@ -1,0 +1,63 @@
+{
+  "uuid": "dd94c98a-1b1a-4488-9271-34e7e751dd11",
+  "historyId": "90760a4ec951420da5d76197f56c8c66",
+  "testCaseId": "a6e7c4ac6a99e64ad3689b2f5c05d473",
+  "fullName": "UnitTests:UnitTests.UnitTests.TestDA.OrderRepositoryUnitTests.TestGetOrderByIdUser()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": ".NET TP Worker"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-1N5H40G"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "xUnit.net"
+    },
+    {
+      "name": "testClass",
+      "value": "UnitTests.UnitTests.TestDA.OrderRepositoryUnitTests"
+    },
+    {
+      "name": "testMethod",
+      "value": "UnitTests.UnitTests.TestDA.OrderRepositoryUnitTests.TestGetOrderByIdUser"
+    },
+    {
+      "name": "package",
+      "value": "UnitTests.UnitTests.TestDA.OrderRepositoryUnitTests"
+    },
+    {
+      "name": "owner",
+      "value": "VHD"
+    },
+    {
+      "name": "subSuite",
+      "value": "OrderRepositoty Unit tests"
+    },
+    {
+      "name": "suite",
+      "value": "DA Unit Tests"
+    }
+  ],
+  "links": [],
+  "name": "UnitTests.UnitTests.TestDA.OrderRepositoryUnitTests.TestGetOrderByIdUser",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": ""
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1735984241222,
+  "stop": 1735984241250
+}

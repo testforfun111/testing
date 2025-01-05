@@ -1,0 +1,28 @@
+{
+  "uuid": "c69b0d67-5f48-470e-8793-36c56dbd68ee",
+  "name": "UnitTests.UnitTests.TestBL.LondonMethod.UserServiceUnitTests",
+  "children": [
+    "ceaf9808-0f7a-46a1-90b2-47bc9e6c8548"
+  ],
+  "befores": [
+    {
+      "name": ".ctor",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1735926171258,
+      "stop": 1735926171258
+    }
+  ],
+  "afters": [],
+  "links": [],
+  "start": 1735926171258,
+  "stop": 1735926171276
+}

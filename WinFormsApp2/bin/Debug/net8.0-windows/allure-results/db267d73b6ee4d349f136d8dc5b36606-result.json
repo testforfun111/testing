@@ -1,0 +1,63 @@
+{
+  "uuid": "76e23671-70da-43bf-ae0b-4e4379907ed3",
+  "historyId": "ed57c2ef94ff23b2d00e734ef960ab11",
+  "testCaseId": "895fb9aa6967fc384245543072dc7312",
+  "fullName": "UnitTests:UnitTests.UnitTests.TestDA.OrderRepositoryUnitTests.TestDeleteOrder()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": ".NET TP Worker"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-1N5H40G"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "xUnit.net"
+    },
+    {
+      "name": "testClass",
+      "value": "UnitTests.UnitTests.TestDA.OrderRepositoryUnitTests"
+    },
+    {
+      "name": "testMethod",
+      "value": "UnitTests.UnitTests.TestDA.OrderRepositoryUnitTests.TestDeleteOrder"
+    },
+    {
+      "name": "package",
+      "value": "UnitTests.UnitTests.TestDA.OrderRepositoryUnitTests"
+    },
+    {
+      "name": "owner",
+      "value": "VHD"
+    },
+    {
+      "name": "subSuite",
+      "value": "OrderRepositoty Unit tests"
+    },
+    {
+      "name": "suite",
+      "value": "DA Unit Tests"
+    }
+  ],
+  "links": [],
+  "name": "UnitTests.UnitTests.TestDA.OrderRepositoryUnitTests.TestDeleteOrder",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": ""
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1736107246603,
+  "stop": 1736107247645
+}

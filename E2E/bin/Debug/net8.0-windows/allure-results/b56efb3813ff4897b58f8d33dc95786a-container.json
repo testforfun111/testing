@@ -1,0 +1,12 @@
+{
+  "uuid": "d2ecff0e-8348-403a-9f00-c89dabb7bd83",
+  "name": "E2ETests.E2ETests",
+  "children": [
+    "d7865d6d-7a92-4fd9-8f6e-66c0e0ac04fe"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1735932753514,
+  "stop": 1735932755745
+}

@@ -1,0 +1,63 @@
+{
+  "uuid": "07989e3c-c6ef-497a-afe7-a10d523bff97",
+  "historyId": "07aa86bb5d40e36e9116db354422dcca",
+  "testCaseId": "27e6c21df14fef91f98e600e52ffee3b",
+  "fullName": "UnitTests:UnitTests.UnitTests.TestDA.ItemCartRepositoryUnitTests.TestDeleteItemCart()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": ".NET TP Worker"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-1N5H40G"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "xUnit.net"
+    },
+    {
+      "name": "testClass",
+      "value": "UnitTests.UnitTests.TestDA.ItemCartRepositoryUnitTests"
+    },
+    {
+      "name": "testMethod",
+      "value": "UnitTests.UnitTests.TestDA.ItemCartRepositoryUnitTests.TestDeleteItemCart"
+    },
+    {
+      "name": "package",
+      "value": "UnitTests.UnitTests.TestDA.ItemCartRepositoryUnitTests"
+    },
+    {
+      "name": "owner",
+      "value": "VHD"
+    },
+    {
+      "name": "subSuite",
+      "value": "ItemCartRepositoty Unit tests"
+    },
+    {
+      "name": "suite",
+      "value": "DA Unit Tests"
+    }
+  ],
+  "links": [],
+  "name": "UnitTests.UnitTests.TestDA.ItemCartRepositoryUnitTests.TestDeleteItemCart",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": ""
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1735926172638,
+  "stop": 1735926172651
+}

@@ -1,0 +1,12 @@
+{
+  "uuid": "427dbdf5-7b6e-4bed-9b6a-d9543264af86",
+  "name": "ItegrationalTests.IntegrationalTests.ProductIntegrationTests",
+  "children": [
+    "10bc83a7-11ec-4d5f-9c34-7e2293cd2901"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1736106440490,
+  "stop": 1736106441268
+}

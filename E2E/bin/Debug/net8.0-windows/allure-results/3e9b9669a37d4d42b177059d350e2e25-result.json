@@ -1,0 +1,60 @@
+{
+  "uuid": "a1a67b21-5d42-4d71-a2d1-6275303f4668",
+  "historyId": "bd41ab7b296f3f0d25300dbee7e5f739",
+  "testCaseId": "06e918e306860f048ee75d970cdb8476",
+  "fullName": "E2E:E2ETests.E2ETests.TestOrderProduct()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": ".NET TP Worker"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-1N5H40G"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "xUnit.net"
+    },
+    {
+      "name": "testClass",
+      "value": "E2ETests.E2ETests"
+    },
+    {
+      "name": "testMethod",
+      "value": "E2ETests.E2ETests.TestOrderProduct"
+    },
+    {
+      "name": "package",
+      "value": "E2ETests.E2ETests"
+    },
+    {
+      "name": "owner",
+      "value": "VHD"
+    },
+    {
+      "name": "suite",
+      "value": "E2E"
+    }
+  ],
+  "links": [],
+  "name": "E2ETests.E2ETests.TestOrderProduct",
+  "status": "failed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "Assert.Equal() Failure: Values differ\r\nExpected: 1\r\nActual:   0",
+    "trace": "   at Xunit.Assert.Equal[T](T expected, T actual, IEqualityComparer`1 comparer) in /_/src/xunit.assert/Asserts/EqualityAsserts.cs:line 154\r\n   at Xunit.Assert.Equal[T](T expected, T actual) in /_/src/xunit.assert/Asserts/EqualityAsserts.cs:line 89\r\n   at E2ETests.E2ETests.TestOrderProduct() in E:\\My_semester_7\\Testing\\Lab2\\E2E\\E2ETests.cs:line 102\r\n   at System.RuntimeMethodHandle.InvokeMethod(Object target, Void** arguments, Signature sig, Boolean isConstructor)\r\n   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)"
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1735933987824,
+  "stop": 1735933988426
+}

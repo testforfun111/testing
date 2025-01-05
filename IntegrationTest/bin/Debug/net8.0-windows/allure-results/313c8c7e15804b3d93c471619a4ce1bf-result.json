@@ -1,0 +1,63 @@
+{
+  "uuid": "752903e7-8f56-4ffa-8ba7-3a4d70385e6b",
+  "historyId": "db529c9197210dda79f947ccd5ec9852",
+  "testCaseId": "e70f35302339e396dc02c2161358db29",
+  "fullName": "IntegrationTest:ItegrationalTests.IntegrationalTests.ProductIntegrationTests.TestDeleteProduct()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": ".NET TP Worker"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-1N5H40G"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "xUnit.net"
+    },
+    {
+      "name": "testClass",
+      "value": "ItegrationalTests.IntegrationalTests.ProductIntegrationTests"
+    },
+    {
+      "name": "testMethod",
+      "value": "ItegrationalTests.IntegrationalTests.ProductIntegrationTests.TestDeleteProduct"
+    },
+    {
+      "name": "package",
+      "value": "ItegrationalTests.IntegrationalTests.ProductIntegrationTests"
+    },
+    {
+      "name": "owner",
+      "value": "VHD"
+    },
+    {
+      "name": "subSuite",
+      "value": "ProductIntegrational Tests"
+    },
+    {
+      "name": "suite",
+      "value": "Integrational Tests"
+    }
+  ],
+  "links": [],
+  "name": "ItegrationalTests.IntegrationalTests.ProductIntegrationTests.TestDeleteProduct",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": ""
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1736106442074,
+  "stop": 1736106442092
+}

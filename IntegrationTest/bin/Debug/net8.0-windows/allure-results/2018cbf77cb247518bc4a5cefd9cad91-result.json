@@ -1,0 +1,63 @@
+{
+  "uuid": "6348aab5-4326-44ff-9456-6a313e56bcba",
+  "historyId": "8e279c32b4afffa53c553e91704ad293",
+  "testCaseId": "3fa6b676063c18db44432d737a133123",
+  "fullName": "IntegrationTest:ItegrationalTests.IntegrationalTests.CartIntegrationTests.TestAddCart()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": ".NET TP Worker"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-1N5H40G"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "xUnit.net"
+    },
+    {
+      "name": "testClass",
+      "value": "ItegrationalTests.IntegrationalTests.CartIntegrationTests"
+    },
+    {
+      "name": "testMethod",
+      "value": "ItegrationalTests.IntegrationalTests.CartIntegrationTests.TestAddCart"
+    },
+    {
+      "name": "package",
+      "value": "ItegrationalTests.IntegrationalTests.CartIntegrationTests"
+    },
+    {
+      "name": "owner",
+      "value": "VHD"
+    },
+    {
+      "name": "subSuite",
+      "value": "CartIntegrational Tests"
+    },
+    {
+      "name": "suite",
+      "value": "Integrational Tests"
+    }
+  ],
+  "links": [],
+  "name": "ItegrationalTests.IntegrationalTests.CartIntegrationTests.TestAddCart",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": ""
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1736106915519,
+  "stop": 1736106915816
+}

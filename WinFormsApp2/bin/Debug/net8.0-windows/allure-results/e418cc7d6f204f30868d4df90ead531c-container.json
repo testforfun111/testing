@@ -1,0 +1,28 @@
+{
+  "uuid": "787b8b1f-d0a4-4b34-a872-566e69e5d5ce",
+  "name": "UnitTests.UnitTests.TestBL.DestroitMethod.UserServiceUnitTests",
+  "children": [
+    "adff6c9e-a2da-4a2e-8fb7-b868b4ee15de"
+  ],
+  "befores": [
+    {
+      "name": ".ctor",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1735933537143,
+      "stop": 1735933537144
+    }
+  ],
+  "afters": [],
+  "links": [],
+  "start": 1735933537116,
+  "stop": 1735933537823
+}

@@ -1,0 +1,67 @@
+{
+  "uuid": "f04a3b0d-8cdd-416f-91b3-3a3d4c62de39",
+  "historyId": "5d67b7698ea4f5ec1e80eaf82c3117f8",
+  "testCaseId": "f21d7ad54b266bd28f8f3f209720d8ed",
+  "fullName": "UnitTests:UnitTests.UnitTests.TestBL.DestroitMethod.CartServiceUnitTests.TestAddCartFailureDestroitMethod()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": ".NET TP Worker"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-1N5H40G"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "xUnit.net"
+    },
+    {
+      "name": "testClass",
+      "value": "UnitTests.UnitTests.TestBL.DestroitMethod.CartServiceUnitTests"
+    },
+    {
+      "name": "testMethod",
+      "value": "UnitTests.UnitTests.TestBL.DestroitMethod.CartServiceUnitTests.TestAddCartFailureDestroitMethod"
+    },
+    {
+      "name": "package",
+      "value": "UnitTests.UnitTests.TestBL.DestroitMethod.CartServiceUnitTests"
+    },
+    {
+      "name": "owner",
+      "value": "VHD"
+    },
+    {
+      "name": "parentSuite",
+      "value": "Services Unit tests"
+    },
+    {
+      "name": "subSuite",
+      "value": "CartService unit tests Destroit Method"
+    },
+    {
+      "name": "suite",
+      "value": "CartServices Unit tests"
+    }
+  ],
+  "links": [],
+  "name": "UnitTests.UnitTests.TestBL.DestroitMethod.CartServiceUnitTests.TestAddCartFailureDestroitMethod",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": ""
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1735934053631,
+  "stop": 1735934053654
+}

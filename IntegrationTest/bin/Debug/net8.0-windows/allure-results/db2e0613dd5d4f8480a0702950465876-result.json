@@ -1,0 +1,64 @@
+{
+  "uuid": "63dfb9cc-864e-43db-a2f0-d3991aa90681",
+  "historyId": "1b7a2d54132982ae8473f2944a4d2d19",
+  "testCaseId": "97416f9e9ce7a26142e72f4d60a0288f",
+  "fullName": "IntegrationTest:ItegrationalTests.IntegrationalTests.ItemCartIntegrationTests.TestGetItemCartById()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": ".NET TP Worker"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-1N5H40G"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "xUnit.net"
+    },
+    {
+      "name": "testClass",
+      "value": "ItegrationalTests.IntegrationalTests.ItemCartIntegrationTests"
+    },
+    {
+      "name": "testMethod",
+      "value": "ItegrationalTests.IntegrationalTests.ItemCartIntegrationTests.TestGetItemCartById"
+    },
+    {
+      "name": "package",
+      "value": "ItegrationalTests.IntegrationalTests.ItemCartIntegrationTests"
+    },
+    {
+      "name": "owner",
+      "value": "VHD"
+    },
+    {
+      "name": "subSuite",
+      "value": "ItemCartIntegrational Tests"
+    },
+    {
+      "name": "suite",
+      "value": "Integrational Tests"
+    }
+  ],
+  "links": [],
+  "name": "ItegrationalTests.IntegrationalTests.ItemCartIntegrationTests.TestGetItemCartById",
+  "status": "broken",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "23505: duplicate key value violates unique constraint \"pg_class_relname_nsp_index\"\r\n\r\nDETAIL: Detail redacted as it may contain sensitive data. Specify 'Include Error Detail' in the connection string to include this information.",
+    "trace": "   at Npgsql.Internal.NpgsqlConnector.ReadMessageLong(Boolean async, DataRowLoadingMode dataRowLoadingMode, Boolean readingNotifications, Boolean isReadingPrependedMessage)\r\n   at System.Runtime.CompilerServices.PoolingAsyncValueTaskMethodBuilder`1.StateMachineBox`1.System.Threading.Tasks.Sources.IValueTaskSource<TResult>.GetResult(Int16 token)\r\n   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)\r\n   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)\r\n   at Npgsql.NpgsqlDataReader.NextResult()\r\n   at Npgsql.NpgsqlCommand.ExecuteReader(Boolean async, CommandBehavior behavior, CancellationToken cancellationToken)\r\n   at Npgsql.NpgsqlCommand.ExecuteReader(Boolean async, CommandBehavior behavior, CancellationToken cancellationToken)\r\n   at Npgsql.NpgsqlCommand.ExecuteNonQuery(Boolean async, CancellationToken cancellationToken)\r\n   at Npgsql.NpgsqlCommand.ExecuteNonQuery()\r\n   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteNonQuery(RelationalCommandParameterObject parameterObject)\r\n   at Microsoft.EntityFrameworkCore.Migrations.MigrationCommand.ExecuteNonQuery(IRelationalConnection connection, IReadOnlyDictionary`2 parameterValues)\r\n   at Microsoft.EntityFrameworkCore.Migrations.Internal.MigrationCommandExecutor.ExecuteNonQuery(IEnumerable`1 migrationCommands, IRelationalConnection connection)\r\n   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlDatabaseCreator.CreateTables()\r\n   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabaseCreator.EnsureCreated()\r\n   at Microsoft.EntityFrameworkCore.Infrastructure.DatabaseFacade.EnsureCreated()\r\n   at Data.pgSqlDbContextFactory..ctor(String connectionStr) in E:\\My_semester_7\\Testing\\Lab2\\WinFormsApp1\\WinFormsApp1\\Data\\pgSqlDbContextFactory.cs:line 28\r\n   at ItegrationalTests.Fixture.IntegrationFixture..ctor() in E:\\My_semester_7\\Testing\\Lab2\\IntegrationTest\\Fixture\\IntegrationFixture.cs:line 18\r\n   at ItegrationalTests.IntegrationalTests.ItemCartIntegrationTests..ctor() in E:\\My_semester_7\\Testing\\Lab2\\IntegrationTest\\IntegrationTests\\ItemCartIntegrationTests.cs:line 30\r\n   at System.RuntimeType.CreateInstanceDefaultCtor(Boolean publicOnly, Boolean wrapExceptions)"
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1736106899321,
+  "stop": 1736106899333
+}

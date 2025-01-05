@@ -1,0 +1,67 @@
+{
+  "uuid": "646a1d09-42f8-4407-82cd-34979816cf2a",
+  "historyId": "84d5d3253668232c2173b7f77b6d6987",
+  "testCaseId": "b4b2e1a17a23d2ca7822eb5284a0e844",
+  "fullName": "UnitTests:UnitTests.UnitTests.TestBL.LondonMethod.ItemCartServiceUnitTests.TestAddItemCartFailure()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": ".NET TP Worker"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-1N5H40G"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "xUnit.net"
+    },
+    {
+      "name": "testClass",
+      "value": "UnitTests.UnitTests.TestBL.LondonMethod.ItemCartServiceUnitTests"
+    },
+    {
+      "name": "testMethod",
+      "value": "UnitTests.UnitTests.TestBL.LondonMethod.ItemCartServiceUnitTests.TestAddItemCartFailure"
+    },
+    {
+      "name": "package",
+      "value": "UnitTests.UnitTests.TestBL.LondonMethod.ItemCartServiceUnitTests"
+    },
+    {
+      "name": "owner",
+      "value": "VHD"
+    },
+    {
+      "name": "parentSuite",
+      "value": "Services Unit tests"
+    },
+    {
+      "name": "subSuite",
+      "value": "ItemCartService unit tests London Method"
+    },
+    {
+      "name": "suite",
+      "value": "ItemCartServices Unit tests"
+    }
+  ],
+  "links": [],
+  "name": "UnitTests.UnitTests.TestBL.LondonMethod.ItemCartServiceUnitTests.TestAddItemCartFailure",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": ""
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1736107246269,
+  "stop": 1736107246275
+}

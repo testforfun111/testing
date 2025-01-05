@@ -1,0 +1,22 @@
+# version: "3.7"
+services:
+  postgres:
+    image: postgres
+    container_name: postgres_test
+    restart: on-failure
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: 123456789
+      POSTGRES_DB: TestTestTest
+    ports:
+      - "5432:5432"
+  
+  pgadmin:
+    image: dpage/pgadmin4
+    restart: always
+    environment:
+      PGADMIN_DEFAULT_EMAIL: pg@admin.com
+      PGADMIN_DEFAULT_PASSWORD: aaa
+      # PGADMIN_LISTEN_PORT: 5050
+    ports:
+      - "5050:80"

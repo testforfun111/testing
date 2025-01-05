@@ -1,0 +1,28 @@
+{
+  "uuid": "8f06c487-3deb-4650-b3d6-985c797cb4aa",
+  "name": "UnitTests.UnitTests.TestBL.LondonMethod.ProductServiceUnitTests",
+  "children": [
+    "6007745b-9c3c-4d1f-be97-998345cf2a84"
+  ],
+  "befores": [
+    {
+      "name": "TestGetProductByIdSuccess",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1733334733412,
+      "stop": 1733334733423
+    }
+  ],
+  "afters": [],
+  "links": [],
+  "start": 1733334733412,
+  "stop": 1733334733436
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "25450bd0-bf56-433e-8410-a3b207e5742e",
+  "name": "UnitTests.UnitTests.TestBL.DestroitMethod.ItemCartServiceUnitTests",
+  "children": [
+    "d98d2285-1753-4448-aa70-e937fbeaadd7"
+  ],
+  "befores": [
+    {
+      "name": ".ctor",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1735925408630,
+      "stop": 1735925408630
+    }
+  ],
+  "afters": [],
+  "links": [],
+  "start": 1735925408630,
+  "stop": 1735925408650
+}

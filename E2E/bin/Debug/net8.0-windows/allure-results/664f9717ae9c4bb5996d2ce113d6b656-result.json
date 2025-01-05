@@ -1,0 +1,60 @@
+{
+  "uuid": "d7865d6d-7a92-4fd9-8f6e-66c0e0ac04fe",
+  "historyId": "bd41ab7b296f3f0d25300dbee7e5f739",
+  "testCaseId": "06e918e306860f048ee75d970cdb8476",
+  "fullName": "E2E:E2ETests.E2ETests.TestOrderProduct()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": ".NET TP Worker"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-1N5H40G"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "xUnit.net"
+    },
+    {
+      "name": "testClass",
+      "value": "E2ETests.E2ETests"
+    },
+    {
+      "name": "testMethod",
+      "value": "E2ETests.E2ETests.TestOrderProduct"
+    },
+    {
+      "name": "package",
+      "value": "E2ETests.E2ETests"
+    },
+    {
+      "name": "owner",
+      "value": "VHD"
+    },
+    {
+      "name": "suite",
+      "value": "E2E"
+    }
+  ],
+  "links": [],
+  "name": "E2ETests.E2ETests.TestOrderProduct",
+  "status": "broken",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "Object reference not set to an instance of an object.",
+    "trace": "   at Repository.ProductRepository.AddProduct(Product product) in E:\\My_semester_7\\Testing\\Lab2\\WinFormsApp1\\WinFormsApp1\\DA\\ProductRepository.cs:line 36\r\n   at Services.ProductService.AddProduct(Product product) in E:\\My_semester_7\\Testing\\Lab2\\WinFormsApp1\\WinFormsApp1\\Services\\ProductService.cs:line 45\r\n   at E2ETests.E2ETests.TestOrderProduct() in E:\\My_semester_7\\Testing\\Lab2\\E2E\\E2ETests.cs:line 87\r\n   at System.RuntimeMethodHandle.InvokeMethod(Object target, Void** arguments, Signature sig, Boolean isConstructor)\r\n   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)"
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1735932755168,
+  "stop": 1735932755727
+}

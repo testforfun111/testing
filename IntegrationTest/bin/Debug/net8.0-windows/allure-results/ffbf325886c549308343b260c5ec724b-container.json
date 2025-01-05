@@ -1,0 +1,12 @@
+{
+  "uuid": "29de2a7f-3d20-409b-abe5-8e54c0eba294",
+  "name": "ItegrationalTests.IntegrationalTests.CartIntegrationTests",
+  "children": [
+    "ead050e6-2393-4743-a6a0-3f6dfe1dec92"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1736106707887,
+  "stop": 1736106711506
+}

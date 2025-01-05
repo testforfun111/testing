@@ -1,0 +1,1 @@
+{"total":2,"items":[{"uid":"62d21ff160f2cf1a4ca049bb6c15a789","name":"Services Unit tests","statistic":{"failed":0,"broken":0,"skipped":0,"passed":101,"unknown":0,"total":101}},{"uid":"c7b66c3a18ddc0bc4af88c92dac578b1","name":"DA Unit Tests","statistic":{"failed":0,"broken":0,"skipped":0,"passed":33,"unknown":0,"total":33}}]}

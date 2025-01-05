@@ -1,0 +1,63 @@
+{
+  "uuid": "ec8d33fe-fe7d-4647-bbe7-860ad6262397",
+  "historyId": "71f2c07fdbe24332ab6608e224b11cdc",
+  "testCaseId": "bcf3032d6628703b81eea5fc3e9a872c",
+  "fullName": "UnitTests:UnitTests.UnitTests.TestDA.ProductRepositoryUnitTests.TestAddProduct()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": ".NET TP Worker"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-1N5H40G"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "xUnit.net"
+    },
+    {
+      "name": "testClass",
+      "value": "UnitTests.UnitTests.TestDA.ProductRepositoryUnitTests"
+    },
+    {
+      "name": "testMethod",
+      "value": "UnitTests.UnitTests.TestDA.ProductRepositoryUnitTests.TestAddProduct"
+    },
+    {
+      "name": "package",
+      "value": "UnitTests.UnitTests.TestDA.ProductRepositoryUnitTests"
+    },
+    {
+      "name": "owner",
+      "value": "VHD"
+    },
+    {
+      "name": "subSuite",
+      "value": "ProductRepositoty Unit tests"
+    },
+    {
+      "name": "suite",
+      "value": "DA Unit Tests"
+    }
+  ],
+  "links": [],
+  "name": "UnitTests.UnitTests.TestDA.ProductRepositoryUnitTests.TestAddProduct",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": ""
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1736107246603,
+  "stop": 1736107247615
+}

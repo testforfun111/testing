@@ -1,0 +1,12 @@
+{
+  "uuid": "b11b8216-8873-4f53-81c2-de805e7f9259",
+  "name": "UnitTests.UnitTests.TestBL.LondonMethod.ItemCartServiceUnitTests",
+  "children": [
+    "1805cc36-3434-4132-8aa5-3a2560dea435"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1735984240011,
+  "stop": 1735984240016
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "c184992a-2461-49a6-bd24-704e7994100d",
+  "name": "UnitTests.UnitTests.TestBL.LondonMethod.CartServiceUnitTests",
+  "children": [
+    "64fffd9c-8846-42ff-829e-95a67fdd1eaf"
+  ],
+  "befores": [
+    {
+      "name": "TestGetCartByIdSuccess",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1733381535039,
+      "stop": 1733381535042
+    }
+  ],
+  "afters": [],
+  "links": [],
+  "start": 1733381535038,
+  "stop": 1733381535043
+}
