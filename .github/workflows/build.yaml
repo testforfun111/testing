@@ -36,7 +36,7 @@ jobs:
           dotnet-version: '8.0'
 
       - name: Build
-        run: dotnet publish WinFormApp1/WinFormApp1/WinFormApp1.csproj -c Release -o srcPublish
+        run: dotnet publish WinFormsApp1/WinFormsApp1/WinFormsApp1.csproj -c Release -o srcPublish
 
       - name: Save build artifacts
         uses: actions/upload-artifact@v2
